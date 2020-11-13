@@ -1,3 +1,3 @@
-# Welcome to Tim's blog
+# Welcome to Tim blog
 
 I'm glad you are here. I plan to talk about ...
